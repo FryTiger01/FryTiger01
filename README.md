@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Uploading programmer.gif…]()
+![Uploading programmer.gif…](Uploading programmer.gif)
 
 
 
