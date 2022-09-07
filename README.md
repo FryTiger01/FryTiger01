@@ -1,6 +1,6 @@
 # Hi there, I am Faramarz👋
-<img src="https://raw.githubusercontent.com/FryTiger01/FryTiger01/main/programmer.gif" width="40%" heght="40%">
-<img src="https://github-readme-stats.vercel.app/api?username=FryTiger&show_icons=true&theme=radical" align="left" width="47%">
+<img src="https://raw.githubusercontent.com/FryTiger01/FryTiger01/main/programmer.gif" width="100%" heght="20%">
+<img src="https://github-readme-stats.vercel.app/api?username=frytiger01&show_icons=true&theme=radical" align="left" width="47%">
 <img align="left"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align="left"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align="left"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
