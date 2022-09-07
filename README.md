@@ -1,6 +1,9 @@
 # Hi there, I am Faramarz👋
 <img src="https://raw.githubusercontent.com/FryTiger01/FryTiger01/main/programmer.gif" width="100%" heght="20%">
 <img src="https://github-readme-stats.vercel.app/api?username=frytiger01&show_icons=true&theme=radical" align="left" width="47%">
+
+### Work & favorite Language ❤️
+
 <img align="left"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align="left"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align="left"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,6 +28,9 @@ Social Network
 <a href="https://www.instagram.com/faramarz.k0101/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<br>
+<hr>
 
+Trophy
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=frytiger01)](https://github.com/ryo-ma/github-profile-trophy)
