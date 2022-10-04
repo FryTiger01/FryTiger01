@@ -1,10 +1,7 @@
 # Hi there, I am Faramarz👋
 <img src="https://raw.githubusercontent.com/FryTiger01/FryTiger01/main/programmer.gif" width="100%" heght="20%">
-<img src="https://github-readme-stats.vercel.app/api?username=frytiger01&show_icons=true&theme=radical" align="left" width="47%">
-
-
-<br>
-<br>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=FryTiger01&show_icons=true&theme=radical">
 <hr>
 Social Network
 <br>
